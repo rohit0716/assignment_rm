@@ -1,2 +1,4 @@
 hello file 4 file
 
+now sample4 has been edited in branch4
+
