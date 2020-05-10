@@ -1,1 +1,3 @@
 hello file2
+
+moving to branch2 and then merge to master
